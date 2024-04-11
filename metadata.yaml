@@ -1,0 +1,26 @@
+_repo: Soissons-Before-and-During-the-War_73323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cie, Michelin &
+    gutenberg_agent_id: '57034'
+    url: http://www.gutenberg.org/2009/agents/57034
+description: ''
+gutenberg_issued: '2024-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73323'
+language: en
+pgterms:marc905: 20130926030416cie
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Brian Coe, Brian Wilsden and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aClermont-Ferrand :$bMichelin & Cie, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Soissons Before and During the War
+url: http://www.gutenberg.org/ebooks/73323
